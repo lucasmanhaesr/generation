@@ -1,4 +1,4 @@
-# Repositórios de exercicíos da Genneration
+# Repositórios de exercicíos da Generation
 #### Os exercícios estão localizados nas subpastas abaixo:
 ```
 /generation/*
