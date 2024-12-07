@@ -4,7 +4,6 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Main {
-
     public static void main(String[] args) {
         Scanner scanf = new Scanner(System.in);
 
@@ -21,5 +20,4 @@ public class Main {
             System.out.println("O número " + numero + " não foi encontrado!");
         }
     }
-
 }
